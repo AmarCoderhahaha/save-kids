@@ -1,0 +1,33 @@
+#pehla{
+width: 50%;
+margin-left: 25%;
+}
+img{
+
+    width: 100%;
+    border: 40px dotted ;
+}
+html{
+background-color:brown;
+
+
+}
+H1{
+
+font-size: 50px;
+text-align: center;
+color:yellow;
+font-family:monospace;
+
+}
+#teesra
+{
+
+    margin-left: 30%;
+}
+H2{
+
+    text-decoration:solid;
+    text-shadow:darksalmon;
+    font-family:fantasy;
+}
